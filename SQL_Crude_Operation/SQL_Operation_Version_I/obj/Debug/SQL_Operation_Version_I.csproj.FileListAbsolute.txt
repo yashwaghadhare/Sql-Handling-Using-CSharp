@@ -1,0 +1,5 @@
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL_Operation_Version_I\SQL_Operation_Version_I\bin\SQL_Operation_Version_I.dll
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL_Operation_Version_I\SQL_Operation_Version_I\bin\SQL_Operation_Version_I.pdb
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL_Operation_Version_I\SQL_Operation_Version_I\obj\Debug\SQL_Operation_Version_I.csprojResolveAssemblyReference.cache
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL_Operation_Version_I\SQL_Operation_Version_I\obj\Debug\SQL_Operation_Version_I.dll
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL_Operation_Version_I\SQL_Operation_Version_I\obj\Debug\SQL_Operation_Version_I.pdb
