@@ -1,0 +1,7 @@
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL-EntityFramework_MODELS\SQL-EntityFramework_MODELS\obj\Debug\SQL-EntityFramework_MODELS.csprojResolveAssemblyReference.cache
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL-EntityFramework_MODELS\SQL-EntityFramework_MODELS\bin\SQL-EntityFramework_MODELS.dll
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL-EntityFramework_MODELS\SQL-EntityFramework_MODELS\bin\SQL-EntityFramework_MODELS.pdb
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL-EntityFramework_MODELS\SQL-EntityFramework_MODELS\bin\EntityFramework.dll
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL-EntityFramework_MODELS\SQL-EntityFramework_MODELS\bin\EntityFramework.xml
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL-EntityFramework_MODELS\SQL-EntityFramework_MODELS\obj\Debug\SQL-EntityFramework_MODELS.dll
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL-EntityFramework_MODELS\SQL-EntityFramework_MODELS\obj\Debug\SQL-EntityFramework_MODELS.pdb
