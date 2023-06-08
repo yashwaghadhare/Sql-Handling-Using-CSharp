@@ -1,0 +1,7 @@
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL-Entity-Framework-PivoteQuery\SQL-Entity-Framework-PivoteQuery\bin\SQL-Entity-Framework-PivoteQuery.dll
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL-Entity-Framework-PivoteQuery\SQL-Entity-Framework-PivoteQuery\bin\SQL-Entity-Framework-PivoteQuery.pdb
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL-Entity-Framework-PivoteQuery\SQL-Entity-Framework-PivoteQuery\bin\EntityFramework.dll
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL-Entity-Framework-PivoteQuery\SQL-Entity-Framework-PivoteQuery\bin\EntityFramework.xml
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL-Entity-Framework-PivoteQuery\SQL-Entity-Framework-PivoteQuery\obj\Debug\SQL-Entity-Framework-PivoteQuery.csprojResolveAssemblyReference.cache
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL-Entity-Framework-PivoteQuery\SQL-Entity-Framework-PivoteQuery\obj\Debug\SQL-Entity-Framework-PivoteQuery.dll
+C:\Users\conta\Downloads\Yash\Dotnet\SQL-Operations\SQL-Entity-Framework-PivoteQuery\SQL-Entity-Framework-PivoteQuery\obj\Debug\SQL-Entity-Framework-PivoteQuery.pdb

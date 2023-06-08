@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DatabaseModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DatabaseEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Marks" EntityType="DatabaseModel.Mark" />
+    <EntitySet Name="Students" EntityType="DatabaseModel.Student" />
+    <AssociationSet Name="FK_Marks_Student" Association="DatabaseModel.FK_Marks_Student">
+      <End Role="Student" EntitySet="Students" />
+      <End Role="Marks" EntitySet="Marks" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Mark">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Subject" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Marks" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="StudentId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Student" Relationship="DatabaseModel.FK_Marks_Student" FromRole="Marks" ToRole="Student" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Marks" Relationship="DatabaseModel.FK_Marks_Student" FromRole="Student" ToRole="Marks" />
+  </EntityType>
+  <Association Name="FK_Marks_Student">
+    <End Role="Student" Type="DatabaseModel.Student" Multiplicity="1" />
+    <End Role="Marks" Type="DatabaseModel.Mark" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Marks">
+        <PropertyRef Name="StudentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
